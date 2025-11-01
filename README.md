@@ -4,7 +4,7 @@ A full-stack web application built authentication, and dashboard CRUD operations
 
 ---
 ##  Live Deployment
-*Deployed on [Render](https://authentication-backend-2-6tyy.onrender.com)*
+*Deployed on [https://authentication-backend-2-6tyy.onrender.com/](https://authentication-backend-2-6tyy.onrender.com)*
 
 ##  Tech Stack
 
