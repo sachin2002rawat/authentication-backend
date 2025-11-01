@@ -1,12 +1,12 @@
-# 🧠 Scalable Web App with Authentication & Dashboard
+#  Scalable Web App with Authentication & Dashboard
 
 A full-stack web application built authentication, and dashboard CRUD operations.  
 
 ---
-## 🌍 Live Deployment
+##  Live Deployment
 *Deployed on [Render](https://authentication-backend-2-6tyy.onrender.com)*
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js 
@@ -22,20 +22,20 @@ A full-stack web application built authentication, and dashboard CRUD operations
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 - User registration & login (JWT)
 - Passwords securely hashed using **bcrypt**
 - Protected routes with JWT validation
 
-### 🧑‍💻 Dashboard
+###  Dashboard
 - Displays user profile (from backend)
 - CRUD operations on sample entity 
 - Search & filter functionality
 - Logout flow with token invalidation (frontend)
 
-### 🗄️ API Endpoints (Example)
+###  API Endpoints (Example)
 | Method | Endpoint | Description |
 |--------|-----------|-------------|
 | POST | `/api/auth/signup` | Register new user |
@@ -43,7 +43,7 @@ A full-stack web application built authentication, and dashboard CRUD operations
 | GET | `/api/profile` | Get user profile |
 | PUT | `/api/profile` | Update user profile |
 
-## 🧩 Folder Structure
+##  Folder Structure
 root/
 ├── frontend/ # React / Next.js app
 │ ├── src/
@@ -59,5 +59,5 @@ root/
 ├── .env
 └── README.md
 
-## 🧩 Project Structure
+
 
