@@ -5,7 +5,7 @@ import { useEffect } from 'react'
 export const dataContext=createContext()
 const UserContext = ({children}) => {
   let [userData,setUserData]=useState({});
-    const serverUrl="http://localhost:8000"
+    const serverUrl="https://authentication-backend-1-jmw5.onrender.com"
     const getUserdata=async()=>{
       try {
         let {data}=await axios.get(serverUrl+'/api/getUserdata',{
